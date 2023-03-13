@@ -1,11 +1,1 @@
-Hi, I'm Jack. I'm a developer based in Cape Town, South Africa. 
-
-I'm interested in continuous learning, reading and making apps that hopefully help others.
-
-I'm currently on a bit of a war path trying to figure out the back-end. I've got experience with building web apps that I think look great but I'm interested
-in how to get them to work with a server and potentially host my own website.
-
-I'm always keen to collaborate on projects, I've just finished doing some webscraping for an information website that will help some friends of mine.
-
-
-
+As a self-taught software developer, I have gained practical experience through developing an app called 'Find My Degree'. This app stores information on university courses and requirements, aimed at helping aspiring university students find the information they need in one place. Over the past 6 months, I have honed my skills by working on this app and completing various coding projects, which have helped me to learn new programming concepts. Additionally, I have taken a number of courses on CodeCademy and FreeCodeCamp to further enhance my knowledge and skills in the field. My goal is to continue growing as a software developer and to work on challenging projects that allow me to make a positive impact.
